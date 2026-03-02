@@ -1,0 +1,6 @@
+Awesome! Thanks, Copilot! Let's use the
+branch name "accelerate-with-copilot".
+
+
+@workspace Students are able to register twice for an activity.
+Where could this bug be coming from?
